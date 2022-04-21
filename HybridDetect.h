@@ -45,7 +45,7 @@
 #define ENABLE_HYBRID_DETECT
 
 // Tells the application to treat the target system as a heterogeneous software proxy.
-//#define ENABLE_SOFTWARE_PROXY	
+//#define ENABLE_SOFTWARE_PROXY	//rrw
 
 // Enables/Disables Run On API
 #define ENABLE_RUNON
